@@ -1,0 +1,12 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "g:\\unreal projects\\pp_avant\\projet-pratique-v2.0\\plugins\\developer\\riderlink\\source\\rd\\src\\rd_framework_cpp\\src\\main\\util\\hashing.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "g:\\unreal projects\\pp_avant\\projet-pratique-v2.0\\plugins\\developer\\riderlink\\intermediate\\build\\win64\\unrealeditor\\development\\rd\\definitions.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
